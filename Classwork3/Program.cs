@@ -15,14 +15,13 @@ namespace Classwork3
         if (choice == 1)
         {
           function.AddAStudentToList();
-          Console.WriteLine("*****");
         }
         else if (choice == 2)
         {
           Console.Write("Enter student name: ");
           string studentName = Console.ReadLine();
-          function.FindByName(studentName);
           Console.WriteLine("*****");
+          function.FindByName(studentName);
         }
         else if (choice == 3)
         {
@@ -35,8 +34,8 @@ namespace Classwork3
           Console.WriteLine("Invalid choice! Please try again!");
           Console.WriteLine("*****");
         }
-        Console.WriteLine("Enter your choice: ");
         function.Menu();
+        Console.Write("Enter your choice: ");
         choice = int.Parse(Console.ReadLine());
       }
       while (true);
