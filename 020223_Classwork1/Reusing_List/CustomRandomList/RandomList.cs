@@ -2,7 +2,7 @@ namespace CustomRandomList
 {
   public class RandomList : List<string>
   {
-    private Random random;
+    private Random random = new Random();
 
     public string RandomString()
     {
