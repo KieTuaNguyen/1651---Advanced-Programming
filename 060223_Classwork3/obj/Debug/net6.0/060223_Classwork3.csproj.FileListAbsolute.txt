@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\060223_Classwork3\bin\Debug\net6.0\060223_Classwork3.exe
+C:\Users\PC\Desktop\C#\060223_Classwork3\bin\Debug\net6.0\060223_Classwork3.deps.json
+C:\Users\PC\Desktop\C#\060223_Classwork3\bin\Debug\net6.0\060223_Classwork3.runtimeconfig.json
+C:\Users\PC\Desktop\C#\060223_Classwork3\bin\Debug\net6.0\060223_Classwork3.dll
+C:\Users\PC\Desktop\C#\060223_Classwork3\bin\Debug\net6.0\060223_Classwork3.pdb
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.dll
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\refint\060223_Classwork3.dll
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.pdb
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\060223_Classwork3.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\060223_Classwork3\obj\Debug\net6.0\ref\060223_Classwork3.dll
