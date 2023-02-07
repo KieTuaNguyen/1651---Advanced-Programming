@@ -9,7 +9,6 @@ namespace _060223_Homework5
     //Constructors
     public Robot()
     {
-
     }
     public Robot(string model, string id)
     {

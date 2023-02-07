@@ -24,6 +24,7 @@
           }
         }
       }
+
       string year = Console.ReadLine();
       int countEmpty = 0;
       foreach (var item in birthdayCitizen)

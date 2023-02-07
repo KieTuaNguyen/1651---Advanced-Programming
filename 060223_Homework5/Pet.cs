@@ -9,7 +9,6 @@ namespace _060223_Homework5
     //Constructors
     public Pet()
     {
-
     }
     public Pet(string s, string name, string birthday)
     {

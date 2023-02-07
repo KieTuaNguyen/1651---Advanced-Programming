@@ -11,7 +11,6 @@ namespace _060223_Homework5
     //Constructors
     public Citizen()
     {
-
     }
     public Citizen(string s, string name, int age, string id, string birthday)
     {
