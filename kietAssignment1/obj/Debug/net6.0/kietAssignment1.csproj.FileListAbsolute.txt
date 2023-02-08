@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\kietAssignment1\bin\Debug\net6.0\kietAssignment1.exe
+C:\Users\PC\Desktop\C#\kietAssignment1\bin\Debug\net6.0\kietAssignment1.deps.json
+C:\Users\PC\Desktop\C#\kietAssignment1\bin\Debug\net6.0\kietAssignment1.runtimeconfig.json
+C:\Users\PC\Desktop\C#\kietAssignment1\bin\Debug\net6.0\kietAssignment1.dll
+C:\Users\PC\Desktop\C#\kietAssignment1\bin\Debug\net6.0\kietAssignment1.pdb
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.dll
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\refint\kietAssignment1.dll
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.pdb
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\kietAssignment1.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\kietAssignment1\obj\Debug\net6.0\ref\kietAssignment1.dll
