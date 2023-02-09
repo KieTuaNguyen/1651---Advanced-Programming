@@ -29,7 +29,7 @@ namespace kietAssignment1
     }
 
     // Methods
-    public void Status()
+    public override Status()
     {
       if (score >= 5)
       {

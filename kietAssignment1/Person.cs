@@ -60,6 +60,10 @@ namespace kietAssignment1
       Console.WriteLine("Name\tAge\tAddress\t\tPhone\t\tEmail");
       Console.WriteLine($"{Name}\t{Age}\t{Address}\t\t{Phone}\t{Email}");
     }
+    void Status()
+    {
+
+    }
 
     // Override
     public override void Display()

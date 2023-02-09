@@ -33,7 +33,7 @@ namespace kietAssignment1
     {
       return hour * salary;
     }
-    public void Status()
+    public override void Status()
     {
       if (hour >= 40)
       {
