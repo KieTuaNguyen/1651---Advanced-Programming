@@ -44,6 +44,12 @@ namespace kietAssignment1
         Console.WriteLine("Part time");
       }
     }
+    public void Print()
+    {
+      System.Console.WriteLine("LECTURER INFORMATION: ");
+      Console.WriteLine("Name\t\tAge\tAddress\t\tPhone\t\tEmail\t\t\tSalary\tHour");
+      Console.WriteLine($"{Name}\t{Age}\t{Address}\t\t{Phone}\t{Email}\t\t{salary}\t{hour}");
 
+    }
   }
 }

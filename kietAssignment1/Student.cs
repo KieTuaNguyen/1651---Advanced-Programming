@@ -40,5 +40,11 @@ namespace kietAssignment1
         Console.WriteLine("Fail");
       }
     }
+    public void Print()
+    {
+      System.Console.WriteLine("STUDENT INFORMATION: ");
+      Console.WriteLine("Name\tAge\tAddress\t\tPhone\t\tEmail\t\tScore\tGrade");
+      Console.WriteLine($"{Name}\t{Age}\t{Address}\t\t{Phone}\t{Email}\t{score}\t{grade}");
+    }
   }
 }
