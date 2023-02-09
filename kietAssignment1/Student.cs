@@ -40,7 +40,7 @@ namespace kietAssignment1
         Console.WriteLine("Fail");
       }
     }
-    public void Print()
+    public override void Print()
     {
       System.Console.WriteLine("STUDENT INFORMATION: ");
       Console.WriteLine("Name\tAge\tAddress\t\tPhone\t\tEmail\t\tScore\tGrade");

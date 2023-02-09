@@ -44,7 +44,7 @@ namespace kietAssignment1
         Console.WriteLine("Part time");
       }
     }
-    public void Print()
+    public override void Print()
     {
       System.Console.WriteLine("LECTURER INFORMATION: ");
       Console.WriteLine("Name\t\tAge\tAddress\t\tPhone\t\tEmail\t\t\tSalary\tHour");

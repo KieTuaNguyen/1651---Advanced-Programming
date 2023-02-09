@@ -1,6 +1,6 @@
 namespace kietAssignment1
 {
-  class Person
+  class Person : School
   {
     // Fields
     string name;
@@ -53,6 +53,20 @@ namespace kietAssignment1
     public void Info()
     {
       Console.WriteLine($"Name: " + name + " - Age: " + age + " - Address: " + address + " - Phone: " + phone + " - Email: " + email);
+    }
+    public virtual void Print()
+    {
+      System.Console.WriteLine("PERSONAL INFORMATION: ");
+      Console.WriteLine("Name\tAge\tAddress\t\tPhone\t\tEmail");
+      Console.WriteLine($"{Name}\t{Age}\t{Address}\t\t{Phone}\t{Email}");
+    }
+
+    // Override
+    public override void Display()
+    {
+      System.Console.WriteLine("PERSONAL INFORMATION: ");
+      Console.WriteLine("Name\tAge\tAddress\t\tPhone\t\tEmail");
+      Console.WriteLine($"{Name}\t{Age}\t{Address}\t\t{Phone}\t{Email}");
     }
   }
 }
