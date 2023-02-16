@@ -24,7 +24,7 @@ namespace _160223_Classwork1
     }
     */
 
-    /**/
+    /*
     //Singleton pattern
     private static School instance = null;
     private School()
@@ -52,5 +52,6 @@ namespace _160223_Classwork1
     {
       return Name + " " + Address + " " + City;
     }
+    */
   }
 }
