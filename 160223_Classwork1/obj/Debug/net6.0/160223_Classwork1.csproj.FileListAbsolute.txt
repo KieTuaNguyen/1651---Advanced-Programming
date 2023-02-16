@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\160223_Classwork1\bin\Debug\net6.0\160223_Classwork1.exe
+C:\Users\PC\Desktop\C#\160223_Classwork1\bin\Debug\net6.0\160223_Classwork1.deps.json
+C:\Users\PC\Desktop\C#\160223_Classwork1\bin\Debug\net6.0\160223_Classwork1.runtimeconfig.json
+C:\Users\PC\Desktop\C#\160223_Classwork1\bin\Debug\net6.0\160223_Classwork1.dll
+C:\Users\PC\Desktop\C#\160223_Classwork1\bin\Debug\net6.0\160223_Classwork1.pdb
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.dll
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\refint\160223_Classwork1.dll
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.pdb
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\160223_Classwork1.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\160223_Classwork1\obj\Debug\net6.0\ref\160223_Classwork1.dll
