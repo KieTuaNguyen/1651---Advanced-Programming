@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\170223_Classwork1\\170223_Classwork1.csproj": {}
+    "C:\\Users\\PC\\Desktop\\C#\\170223_Classwork1\\170223_Classwork1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\170223_Classwork1\\170223_Classwork1.csproj": {
+    "C:\\Users\\PC\\Desktop\\C#\\170223_Classwork1\\170223_Classwork1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\170223_Classwork1\\170223_Classwork1.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\C#\\170223_Classwork1\\170223_Classwork1.csproj",
         "projectName": "170223_Classwork1",
-        "projectPath": "C:\\Users\\PC\\Desktop\\170223_Classwork1\\170223_Classwork1.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\C#\\170223_Classwork1\\170223_Classwork1.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\170223_Classwork1\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\C#\\170223_Classwork1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
