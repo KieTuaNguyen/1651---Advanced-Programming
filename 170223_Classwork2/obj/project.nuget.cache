@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oJmYbEixNRVHQPViV0VXW1xZCZ0vJW3ViLJ9tI7TEuvMW8V7pL4m0jaCZyEO9lHGSA7GEPEdK05EsyKjwyJSng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\170223_Classwork2\\170223_Classwork2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
